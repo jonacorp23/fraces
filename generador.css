@@ -1,0 +1,39 @@
+section {
+    padding-left: 15%;
+    padding-right:15%;
+}
+
+#frase {
+    color:rgb(183, 37, 212);
+    font-size:18px;
+    font-weight: bold;
+}
+
+#pricipal{
+    border: solid 1px black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+fieldset{
+    margin-bottom: 10px;
+}
+
+legend{
+    border: solid 1px violet;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    background: lightblue;
+}
+
+#mifoto{
+    margin: 5px;
+    border: solid 4px black;
+}
+
+body{
+    background: url(https://marketplace.canva.com/EAEK4rYL-Qk/1/0/1600w/canva-pastel-arte-l%C3%ADquido-tendencia-moderna-fondo-para-zoom-Q6zORw9qrdA.jpg);
+    background-size: 100%;
+}
